@@ -1,4 +1,4 @@
-name: Terraform s3 Apply
+name: Terraform EC2 Apply
 
 on:
   push:
