@@ -6,6 +6,5 @@ variable "instance_type" {
   default = "t2.micro"
 }
 
-variable "key_name" {
-  default = "githubactions"
-}
+variable "aws_access_key" {}
+variable "aws_secret_key" {}
